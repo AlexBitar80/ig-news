@@ -8,8 +8,8 @@ export function Header() {
         <img src="/images/logo.svg" alt="ig.news"/>
 
         <nav>
-          <a className={styles.active}>Home</a>
-          <a>Posts</a>
+          <a className={styles.active}>Inicio</a>
+          <a>publicações</a>
         </nav>
 
         <SignInButton />
