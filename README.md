@@ -27,6 +27,7 @@ A ideia da aplicação é que assinantes possam visualizar e ficar por dentro da
 - SSG (Static Site Generation)
 - SSR (Server Side Rendering)
 - Uso do Banco de dados FaunaDB
+- Uso de Pré-processador CSS (Sass)
 - Conexão com API de pagamento (stripe)
 - uso de CMS para criação das publicações (Prismic)
 
